@@ -27,3 +27,4 @@ SK SKALA 과정에서 사용하는 AI 학습/프로젝트 지원 챗봇 **AskALA
 ## Contributing
 - 이슈/PR 환영합니다.
 - 작은 단위로 PR을 올리고, 기능별 README를 함께 업데이트합니다.
+- AI 학습 기반 프로젝트입니다.
